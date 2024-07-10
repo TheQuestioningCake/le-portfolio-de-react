@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [Screenshot](#screenshot)
+- [Link](#link)
 - [Questions](#questions)
 
 ## License: 
@@ -26,6 +27,10 @@ The usage for this project is to show my bootcamp I'm able to comprehend and use
 If you wish to contribute and help me make this portfolio better you can either email me or message me directly here on github
 
 ## Screenshot
+![deployed screenshot](./public/img/deployedScreenshot.png)
+
+## Link
+https://dazzling-croquembouche-dcbdb7.netlify.app/
 
 ## Questions
 If you have any questions contact me at perrwayne39@gmail.com or you can reach me at www.github.com/TheQuestioningCake
