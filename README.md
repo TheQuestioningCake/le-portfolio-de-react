@@ -1,8 +1,31 @@
-# React + Vite
+# Le Portfolio De React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table Of Contents
 
-Currently, two official plugins are available:
+- [License](#license)
+- [Description](#description)
+- [Install](#install)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Screenshot](#screenshot)
+- [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## License: 
+None
+
+## Description
+For this project we had to create a new portoflio using react, we needed to create differnt components and render them using react. For this assignment I decided to refactor my original portfolio and update it using react so it had a more dynamic structure to it
+
+## Install
+In order to install this repo you need to copy the SSH key then in the terminal do a simple git clone followed by pasting the SSH key, afterwards you need to do an npm i in order to install the dependecies 
+
+## Usage
+The usage for this project is to show my bootcamp I'm able to comprehend and use react, it also to show future employers my skills and capabilites
+
+## Contributors
+If you wish to contribute and help me make this portfolio better you can either email me or message me directly here on github
+
+## Screenshot
+
+## Questions
+If you have any questions contact me at perrwayne39@gmail.com or you can reach me at www.github.com/TheQuestioningCake
