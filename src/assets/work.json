@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Good Picks",
+        "img": "img/GoodPicks2.png",
+        "github": "https://github.com/dgomie/good-picks",
+        "live": "https://hidden-depths-01820-f84c3739770d.herokuapp.com/"
+    },
+    {
+        "title": "Blog of tech",
+        "img": "img/BlogOfTech5.png",
+        "github": "https://github.com/TheQuestioningCake/tech-n9ne",
+        "live": "https://blogoftech-678be029b3e5.herokuapp.com/"
+    },
+    {
+        "title": "Miss New Media",
+        "img": "img/missNewMedia.png",
+        "github": "https://github.com/TheQuestioningCake/miss-new-media"
+
+    },
+    {
+        "title": "Got Your Backend",
+        "img": "img/gotYourBackend.png",
+        "github": "https://github.com/TheQuestioningCake/got-your-backend"
+    },
+    {
+        "title": "Original Portfolio",
+        "img": "img/orginialPortfolio.png",
+        "github": "https://github.com/TheQuestioningCake/number-one-portfolio",
+        "live": "https://thequestioningcake.github.io/number-one-portfolio/"
+    },
+    {
+        "title": "Student Games",
+        "img": "img/studentGames.png",
+        "github": "https://github.com/TheQuestioningCake/student-games",
+        "live": "https://thequestioningcake.github.io/student-games/"
+    }
+]
